@@ -15,7 +15,7 @@
  */
 definition(
     name: "Smart Bathroom Fan Master",
-    namespace: "bkeifer",
+    namespace: "emeleven11",
     author: "Brian Keifer",
     description: "Turns on/off a switch (for an exhaust fan) based on humidity.",
     category: "My Apps",
