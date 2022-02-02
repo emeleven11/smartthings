@@ -14,7 +14,7 @@
  *
  */
 definition(
-    name: "Smart Bathroom Fan",
+    name: "Smart Bathroom Fan Guest",
     namespace: "bkeifer",
     author: "Brian Keifer",
     description: "Turns on/off a switch (for an exhaust fan) based on humidity.",
